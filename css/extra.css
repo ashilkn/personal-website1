@@ -1,31 +1,6 @@
-#back-to-top {
-    position: fixed;
-    bottom: 3em;
-    right: 3em;
-    background-color: blue;
-    color: black;
-    border : none;
-    border-radius: 10%;
-    padding: .5em;
-    text-transform: uppercase;
-    cursor: pointer;
-    font-weight: 700;
-    display: inline-block;
-    opacity: 0;
-    text-decoration: none;
-    font-size: .75em;
-    transition: 300ms;
-}
-
-#back-to-top.visible {
-    opacity: 0.5;
-}
-
-
-
 @media (max-width: 575px) {
     .music-posts {
-        padding: 0px;
+        padding: 0px !important;
     }
 }
 
