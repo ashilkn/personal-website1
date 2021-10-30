@@ -2,6 +2,14 @@
     .music-posts {
         padding: 0px !important;
     }
+
+    .rotate {
+        display: none;
+    }
+
+    #intro {
+        padding-left: 0;
+    }
 }
 
 
