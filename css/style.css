@@ -1313,3 +1313,9 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+
+@media (max-width: 575px) {
+    .music-posts {
+        padding: 0;
+    }
+}
